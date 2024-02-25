@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as - Freelancer <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with - JOB and INTERNSHIP<br>🌱 I’m currently learning - JAVA , FRAMEWORKS , WEB DEV , AIML<br>💬 Ask me about anything<br>⚡ Fun fact
+🔭 I’m currently Studying Computer Sciences Engineering (MIT WORLD PEACE UNIVERSITY) <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with - JOB's and INTERNSHIP'S<br>🌱 I’m currently learning - JAVA , FRAMEWORKS , WEB DEV , AIML<br>💬 Ask me about anything<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
